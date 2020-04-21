@@ -4,7 +4,7 @@
 	  
 [![Introduction to Python, by Jessica McKellar](http://akamaicovers.oreilly.com/images/9781491902141/cat.gif)](https://www.safaribooksonline.com/library/view/title/9781491904794//)
 	  
-The files can be found in the "introduction_to_python" folder.
+The files can be found in the [introduction-to-python](https://resources.oreilly.com/examples/110000448/tree/master/introduction-to-python) folder.
 
 The following applies to example files from material published by O’Reilly Media, Inc. Content from other publishers may include different rules of usage. Please refer to any additional usage rights explained in the actual example files or refer to the publisher’s website.
 	  
